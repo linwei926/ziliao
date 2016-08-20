@@ -1,0 +1,147 @@
+﻿医保路由器：192.168.1.5 / admin/4185588
+外侧
+IP:10.82.32.192
+255.255.255.0
+10.82.32.1
+
+内网服务器：administrator/workhard
+互联网路由器：192.168.2.254/admin/4185588 (ROS软路由可用winbox登录)
+网站：http://www.dongfanghp.com
+	  ftp://www.dongfanghp.com
+	  //** cw76088/e4x6q8r6(dfhp4185588)
+         www.jsdfyy.net
+	 ftp： cw65215/4185588/e46q8r6
+cp登录密码：jsdfyy84185588
+	  IP:115.28.26.215
+
+光纤接入：
+账号：057304360461
+密码：js@6842
+
+万网会员号:
+网址：www.net.cn
+登录名：hi20455683@aliyun.com
+密码：jsdfyy84185588(dfhp4185588)
+控制台：hmu020096
+密码：jsdfyy84185588
+cp.hichina.com
+
+<30132274/dfhp84185588>
+
+杏林神指管理员账号
+工作卡号：999999
+工作密码：
+ros 路由器　管理　账户　amdin / 4185588
+
+
+李永刚
+130504197102220033
+
+EmpireBak
+admin/84185588
+e10adc3949ba59abbe56e057f20f883e(123456)
+
+广电线路合作医疗PPPOE账号
+用户名：aq18@hzylqz
+密码：123456
+前置机外部IP：10.40.6.140
+前置机内部IP：192.168.1.3
+
+[合作医疗]小杨 15:37:31 
+你们医院的代码是110
+
+[合作医疗]小杨  15:38:02
+你们前置机和你们HIS系统的连接由你们自己定
+现在测试环境，我们中心的前置机IP是21.36.99.88，端口是9510
+
+ 新HIS管理 168/8892
+
+电子病历　001/1234 farnet/空
+
+
+体检中心客服QQ号：1908964904(jsdfyy@84185588)
+
+地址21.36.99.85
+端口是9513
+你们医院的代码还是110
+
+眼科：84187497(8883)
+15712603170
+
+ETC充值
+http://wsc.sptcc.com/sptcc/
+800195039714
+C00405695717
+登录密码：88888888
+支付密码：84185588
+
+[网站相关]
+备案号 = 浙ICP备14015100号
+网站主机 = hmu020096.chinaw3.com　/jsdfyy84185588
+数据库类型 = mysql
+数据库地址 = hdm-029.hichina.com
+用户名 = hdm0290403
+密码 = jsdfyy84185588
+数据库名称 = hdm0290403_db
+
+
+ebak/admin/123456
+e10adc3949ba59abbe56e057f20f883e(123456)
+txl@dongfanghp.com(jsdfyy123456)
+http://www.dongfanghp.com/e/jiashan_admin/
+admin
+js123456
+
+移动铁通宽带
+IP: 211.140.103.2(/30)
+Mask:255.255.255.252
+GateWay:233.95.173.129
+
+IP:211.140.103.2/30
+Mask:255.255.255.252
+GateWay:211.140.103.1
+Dns:211.140.188.188
+    211.140.13.188
+
+Tel: 89105126
+
+嘉职招聘微信公众平台
+240292170@qq.com
+84187769
+http://www.dongfanghp.com/weiphp/
+jzzp/84187769
+管理账号：Administrator/84185588
+
+医师定期考核系统
+用户名：330421HS00004
+密　码：jsdfyy84185588
+
+妇科QQ
+2929216453/dfyy84185588
+
+[国税]
+vpdn账号 = 5233042168666541XL@jxgs
+vpdn密码 = 363432（移动）
+vpdn密码 = js123456（电信）
+
+网页登录 = 5233042168666541XL
+登录密码 = js654321
+
+[医院微信公众号]
+登录地址:mp.weixin.qq.com
+登录名:davy_lin@163.com
+
+[监控系统]
+主机地址：192.168.100.2
+管理员：admin
+登录密码：admin888
+普通用户：jsdfyy
+登录密码：jsdfyy84185588
+登录密码:jsdfyy84185588
+
+[企业邮箱]
+企业邮箱
+http://exmail.qq.com/cgi-bin/loginpage?t=logindomain&s=logout&f=biz&param=@dongfanghp.com
+exmail.qq.com
+qihuabu@dongfanghp.com
+密码：Qhb84185588
