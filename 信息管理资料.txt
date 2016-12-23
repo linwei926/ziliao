@@ -126,10 +126,12 @@ vpdn密码 = js123456（电信）
 
 网页登录 = 5233042168666541XL
 登录密码 = js654321
+薛理敏 000000
 
 [医院微信公众号]
 登录地址:mp.weixin.qq.com
 登录名:davy_lin@163.com
+管理密码:jsdfyy84185588
 
 [监控系统]
 主机地址：192.168.100.2
@@ -137,7 +139,6 @@ vpdn密码 = js123456（电信）
 登录密码：admin888
 普通用户：jsdfyy
 登录密码：jsdfyy84185588
-登录密码:jsdfyy84185588
 
 [企业邮箱]
 企业邮箱
@@ -145,3 +146,52 @@ http://exmail.qq.com/cgi-bin/loginpage?t=logindomain&s=logout&f=biz&param=@dongf
 exmail.qq.com
 qihuabu@dongfanghp.com
 密码：Qhb84185588
+
+[身份证号算年龄]
+=DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"y")
+
+DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"y")&"周岁零"&DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"ym")&"月"&DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"md")&"天"
+
+[梵康微信公众号]
+登录：chenli@fancon.cn
+密码：
+
+[食堂刷卡管理]
+http://dt128.com
+jsdfyy
+jsdfyy84185588
+
+[职业病疾控信息上报]
+安装VRC客户端
+沈漂亮（沈瑜婕）手机 18857389409
+jsdfyy01/002696
+jsdfyy02/002696
+接入地址：218.75.57.62
+WEB登录地址：10.249.1.170
+账号：zybdfyy
+密码：DFyiyuan001
+
+技术联系：
+QQ：794045704
+昵称：el psy congroo
+
+[智能云消费系统]
+食堂就餐卡
+www.dt128.com
+jsdfyy
+jsdfyy84185588
+
+[微信平台]
+www.dongfanghp.com/weiphp/
+jzzp/84187769
+www.dongfanghp.com/wp3/
+administrator/84187769
+
+hr@dongfanghp.com
+Jsdfyy84185588
+
+[微信支付]
+1410634202@1410634202
+135202
+zhangling@1410634202
+zhangling123
