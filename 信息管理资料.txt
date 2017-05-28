@@ -5,7 +5,7 @@ IP:10.82.32.192
 10.82.32.1
 
 内网服务器：administrator/workhard
-互联网路由器：192.168.2.254/admin/4185588 (ROS软路由可用winbox登录)
+互联网路由器：192.168.3.254/admin/4185588 (ROS软路由可用winbox登录)
 网站：http://www.dongfanghp.com
 	  ftp://www.dongfanghp.com
 	  //** cw76088/e4x6q8r6(dfhp4185588)
@@ -92,7 +92,7 @@ http://www.dongfanghp.com/e/jiashan_admin/
 admin
 js123456
 
-移动铁通宽带
+[移动铁通宽带]
 IP: 211.140.103.2(/30)
 Mask:255.255.255.252
 GateWay:233.95.173.129
@@ -105,7 +105,7 @@ Dns:211.140.188.188
 
 Tel: 89105126
 
-嘉职招聘微信公众平台
+[嘉职招聘微信公众平台]
 240292170@qq.com
 84187769
 http://www.dongfanghp.com/weiphp/
@@ -116,7 +116,7 @@ jzzp/84187769
 用户名：330421HS00004
 密　码：jsdfyy84185588
 
-妇科QQ
+[妇科QQ]
 2929216453/dfyy84185588
 
 [国税]
@@ -152,9 +152,6 @@ qihuabu@dongfanghp.com
 
 DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"y")&"周岁零"&DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"ym")&"月"&DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"md")&"天"
 
-[梵康微信公众号]
-登录：chenli@fancon.cn
-密码：
 
 [食堂刷卡管理]
 http://dt128.com
@@ -191,10 +188,40 @@ hr@dongfanghp.com
 Jsdfyy84185588
 
 [微信支付]
+https://pay.weixin.qq.com/
 1410634202@1410634202
 135202
 zhangling@1410634202
 zhangling123
 
 [门禁]
-#*197995#5刷卡
+#*197995*5
+
+[固废申报]
+http://111.1.30.31/jxhbwf/login.jsp
+jsdfyy
+84185588
+
+[集团网关]
+网段：10.101.172.0/24
+掩码：255.255.255.0
+网关：10.101.172.254
+DHCP:10.101.172.11 - 10.101.172.149
+用户名：lw
+密码：lw12345
+
+[电信宽带]
+username=057377075521
+passowrd=787657
+
+[卫生统计直报]
+http://tjbb.zjwst.gov.cn/irpt/i/oem/wsb/
+330421780486856
+jsdfyy2016
+
+[移动宽带参数]
+ip:192.168.100.x
+mask:255.255.255.0
+gateway:192.168.100.150
+dns:211.140.188.188
+    211.140.13.188
