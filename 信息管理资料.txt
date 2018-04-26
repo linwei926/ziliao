@@ -1,4 +1,4 @@
-﻿医保路由器：192.168.1.5 / admin/4185588
+﻿ 医保路由器：192.168.1.5 / admin/4185588
 外侧
 IP:10.82.32.192
 255.255.255.0
@@ -83,6 +83,8 @@ C00405695717
 用户名 = hdm0290403
 密码 = jsdfyy84185588
 数据库名称 = hdm0290403_db
+FTP:hmu020096
+
 
 
 ebak/admin/123456
@@ -113,6 +115,7 @@ jzzp/84187769
 管理账号：Administrator/84185588
 
 医师定期考核系统
+http://dqkh.cmda.org.cn/
 用户名：330421HS00004
 密　码：jsdfyy84185588
 
@@ -132,6 +135,8 @@ vpdn密码 = js123456（电信）
 登录地址:mp.weixin.qq.com
 登录名:davy_lin@163.com
 管理密码:jsdfyy84185588
+APPID:wx05694a921097aa78
+AppSecret:d92cb78e0445afa905ea956278273fe7
 
 [监控系统]
 主机地址：192.168.100.2
@@ -191,14 +196,16 @@ Jsdfyy84185588
 https://pay.weixin.qq.com/
 1410634202@1410634202
 135202
+APPid：wx05694a921097aa78
+API密钥：3KdW7N9PuZ0ai5rZEKNkJBvwLsSIPYOG
 zhangling@1410634202
 zhangling123
-
+操作密码：jsdfyy@84185588
 [门禁]
 #*197995*5
 
 [固废申报]
-http://111.1.30.31/jxhbwf/login.jsp
+http://111.1.30.31:8099/jxhbwf/index.jsp
 jsdfyy
 84185588
 
@@ -207,6 +214,7 @@ jsdfyy
 掩码：255.255.255.0
 网关：10.101.172.254
 DHCP:10.101.172.11 - 10.101.172.149
+管理地址：https://10.101.172.254
 用户名：lw
 密码：lw12345
 
@@ -215,7 +223,9 @@ username=057377075521
 passowrd=787657
 
 [卫生统计直报]
-http://tjbb.zjwst.gov.cn/irpt/i/oem/wsb/
+WEB地址：http://tjbb.zjwst.gov.cn/irpt/i/oem/wsb/
+http://tjbb.zjwst.gov.cn/irpt/
+服务器：http://tjbb.zjwst.gov.cn/irpt/i/
 330421780486856
 jsdfyy2016
 
@@ -225,12 +235,115 @@ mask:255.255.255.0
 gateway:192.168.100.150
 dns:211.140.188.188
     211.140.13.188
-注：此线路为移动为将我们的监控接入公安系统而免费安装的
 
-[会议室视频电话]
-管理密码：456
+[嘉职网站相关资料]
+阿里ID：1550708207481362
+登录名称：嘉职人才
+登录密码：jsjzhr84187769
+IP:123.56.241.105
+临时域名：byu2902320001.my3w.com(北京)(无效)
+          hyu3340070001.my3w.com（杭州）
+控制台用户：byu2902320001(北京机房)(无效)
+            hyu3340070001
+控制台密码：jsjzhr84187769
+FTP用户名：byu2902320001
+           hyu3340070001
+FTP密码：jsjzhr84187769
+数据库地址：bdm295290486.my3w.com
+            hdm334229431.my3w.com
+数据库名称： bdm295290486_db
+             hdm334229431_db
+数据库用户名：bdm295290486
+              hdm334229431
+数据库密码：jsjzhr84187769
+备案号：浙ICP备17029536号-1
+微信公众号
+AppId: wxfe135a3bda2d7832
+AppSecret: b28146959f80da998ffb33447e5e12b6
+公众号第三方平台
+http://www.dongfanghp.com/weiphp/
+jzzp
+84187769
+
+网站管理目录：
+admin/
+管理账号：
+admin/jsjzhr84187769
+IP白名单：120.26.213.131
+          115.29.162.173
+微信支付
+1491855642@1491855642
+092286
+公众号APPID: wxfe135a3bda2d7832
+操作密码:jsjzhr@84187769
+
+
 [医保前置机]
-IP:10.82.32.132
-用户:jsdf003
-密码：不详
-管理员密码:84185588
+10.82.32.132
+jsdf003
+84185588
+
+[社会组织公益地图]
+mzyt.js0573.net
+jsdfyy
+123456
+
+[智慧用电]
+http://efmudc.homewell.com.cn
+用户名：jsdfyy
+密码：319864	
+
+[微信小程序]
+js东方医院
+davy0700@sina.com
+jsdfyy84185588
+wxd9eeb8dd7f7cdfa2
+95d0a5bdf43e0a731c6bf28a5af11990
+
+东方健康助手
+xcx@dongfanghp.com
+jsdfyy84185588
+wxd8797afa67c8dd31
+ac966d2e149c8efe9a6f14518d66d065
+
+wxc0d1b339c7fd9cb4
+
+[CT申请]
+http://www.zjdxyysb.org.cn/
+用户名：dfkfyy，密码：550999
+CT机的IP地址：
+192.168.1.18
+192.168.1.19
+
+查在线IP
+FOR /L %I in (1,1,255) DO PING 192.168.3.%I -n 1 -w 100
+
+【电子化注册系统】
+单位：嘉善东方医院
+用户名：2338VQQR3
+密码：67442843
+权限：(医师，护士，医疗机构)
+
+[医保智能审核]
+http://10.82.32.132:8000
+/heimdall
+33042100006
+84185588
+
+[环境保护部辐射环境监测技术中心]
+JSDFYY
+JSDFYY84185588
+
+长护险种编号：70
+
+[移动监控宽带]
+IP地址：183.249.174.132
+子网掩码：255.255.255.128
+网关地址：183.249.174.129
+DNS服务器：211.140.188.188
+
+[东方医院支付宝]
+654928663@qq.com
+dongfangyiyuan9
+[微信]
+openid = oW8D80OUbWmW9jt4bOTitTiI7IwQ
