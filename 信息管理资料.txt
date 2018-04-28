@@ -4,7 +4,7 @@ IP:10.82.32.192
 255.255.255.0
 10.82.32.1
 
-内网服务器：administrator/workhard
+内网服务器：administrator/12345
 互联网路由器：192.168.3.254/admin/4185588 (ROS软路由可用winbox登录)
 网站：http://www.dongfanghp.com
 	  ftp://www.dongfanghp.com
@@ -110,6 +110,7 @@ Tel: 89105126
 [嘉职招聘微信公众平台]
 240292170@qq.com
 84187769
+三方平台
 http://www.dongfanghp.com/weiphp/
 jzzp/84187769
 管理账号：Administrator/84185588
@@ -154,7 +155,6 @@ qihuabu@dongfanghp.com
 
 [身份证号算年龄]
 =DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"y")
-
 DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"y")&"周岁零"&DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"ym")&"月"&DATEDIF(--TEXT((LEN(A1)=15)*19&MID(A1,7,6+(LEN(A1)=18)*2),"0-00-00"),TODAY(),"md")&"天"
 
 
@@ -172,7 +172,6 @@ jsdfyy02/002696
 WEB登录地址：10.249.1.170
 账号：zybdfyy
 密码：DFyiyuan001
-
 技术联系：
 QQ：794045704
 昵称：el psy congroo
@@ -192,7 +191,7 @@ administrator/84187769
 hr@dongfanghp.com
 Jsdfyy84185588
 
-[微信支付]
+[东方医院微信支付]
 https://pay.weixin.qq.com/
 1410634202@1410634202
 135202
@@ -201,6 +200,7 @@ API密钥：3KdW7N9PuZ0ai5rZEKNkJBvwLsSIPYOG
 zhangling@1410634202
 zhangling123
 操作密码：jsdfyy@84185588
+
 [门禁]
 #*197995*5
 
@@ -241,22 +241,23 @@ dns:211.140.188.188
 登录名称：嘉职人才
 登录密码：jsjzhr84187769
 IP:123.56.241.105
-临时域名：byu2902320001.my3w.com(北京)(无效)
-          hyu3340070001.my3w.com（杭州）
-控制台用户：byu2902320001(北京机房)(无效)
-            hyu3340070001
+临时域名：  hyu3340070001.my3w.com（杭州）
+管理平台：cp.hichina.com
+控制台用户：hyu3340070001
 控制台密码：jsjzhr84187769
-FTP用户名：byu2902320001
-           hyu3340070001
+FTP用户名： hyu3340070001
 FTP密码：jsjzhr84187769
-数据库地址：bdm295290486.my3w.com
-            hdm334229431.my3w.com
-数据库名称： bdm295290486_db
-             hdm334229431_db
-数据库用户名：bdm295290486
-              hdm334229431
+数据库地址： hdm334229431.my3w.com
+数据库名称： hdm334229431_db
+数据库用户名：hdm334229431
 数据库密码：jsjzhr84187769
 备案号：浙ICP备17029536号-1
+骑士授权密码：jsjzhr.com888
+授权域名：www.jsjzhr.com
+微信平台：http://www.74cms.com/sms.php
+用户：18857358476
+密码：jsjzhr84187769
+
 微信公众号
 AppId: wxfe135a3bda2d7832
 AppSecret: b28146959f80da998ffb33447e5e12b6
@@ -265,13 +266,13 @@ http://www.dongfanghp.com/weiphp/
 jzzp
 84187769
 
-网站管理目录：
-admin/
+骑士系统网站管理目录：
+http://www.jsjzhr.com/admin/
 管理账号：
 admin/jsjzhr84187769
 IP白名单：120.26.213.131
-          115.29.162.173
-微信支付
+                  115.29.162.173
+嘉职微信支付
 1491855642@1491855642
 092286
 公众号APPID: wxfe135a3bda2d7832
@@ -347,3 +348,6 @@ DNS服务器：211.140.188.188
 dongfangyiyuan9
 [微信]
 openid = oW8D80OUbWmW9jt4bOTitTiI7IwQ
+
+[微信开放平台账号]
+davy_lin@aliyun.com
