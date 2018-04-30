@@ -257,6 +257,15 @@ FTP密码：jsjzhr84187769
 微信平台：http://www.74cms.com/sms.php
 用户：18857358476
 密码：jsjzhr84187769
+工单地址
+http://www.74cms.com/service.php/login/login.html
+用户名www.jsjzhr.com
+密码jsjzhr.com888 
+PID:2088131067106546
+KEY:ovorx9903mdose1xl82c0i5p1g3wdy0d
+[嘉职企业支付宝]
+davy_lin@qq.com
+jsjzhr@84187769
 
 微信公众号
 AppId: wxfe135a3bda2d7832
