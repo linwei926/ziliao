@@ -261,11 +261,17 @@ FTP密码：jsjzhr84187769
 http://www.74cms.com/service.php/login/login.html
 用户名www.jsjzhr.com
 密码jsjzhr.com888 
-PID:2088131067106546
-KEY:ovorx9903mdose1xl82c0i5p1g3wdy0d
+PID: 2088131067106546
+KEY: ovorx9903mdose1xl82c0i5p1g3wdy0d
 [嘉职企业支付宝]
 davy_lin@qq.com
 jsjzhr@84187769
+
+[微信开放平台]
+davy_lin@aliyun.com
+sunny...
+AppID: wx12b8ef8d275432d1
+AppSecret: 330016525f175adf5f44f9995be82c06
 
 微信公众号
 AppId: wxfe135a3bda2d7832
@@ -354,9 +360,14 @@ DNS服务器：211.140.188.188
 
 [东方医院支付宝]
 654928663@qq.com
-dongfangyiyuan9
+DF123456
 [微信]
 openid = oW8D80OUbWmW9jt4bOTitTiI7IwQ
 
 [微信开放平台账号]
 davy_lin@aliyun.com
+
+[医学继续教育管理信息]
+http://icme.haoyisheng.com/
+82068701
+jsdfyy84185588
