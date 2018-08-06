@@ -224,6 +224,7 @@ passowrd=787657
 
 [卫生统计直报]
 WEB地址：http://tjbb.zjwst.gov.cn/irpt/i/oem/wsb/
+http://tjbb.zjwst.gov.cn/irpt/esmain/portal/loginportal.do?portalid=WJW
 http://tjbb.zjwst.gov.cn/irpt/
 服务器：http://tjbb.zjwst.gov.cn/irpt/i/
 330421780486856
@@ -370,4 +371,9 @@ davy_lin@aliyun.com
 [医学继续教育管理信息]
 http://icme.haoyisheng.com/
 82068701
+jsdfyy84185588
+
+[医疗质量控制数据收集系统]
+https://ncisdc.medidata.cn/
+嘉善东方医院
 jsdfyy84185588
