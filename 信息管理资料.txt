@@ -1,4 +1,4 @@
-﻿ 医保路由器：192.168.1.5 / admin/4185588
+﻿医保路由器：192.168.1.5 / admin/4185588
 外侧
 IP:10.82.32.192
 255.255.255.0
@@ -136,15 +136,21 @@ vpdn密码 = js123456（电信）
 登录地址:mp.weixin.qq.com
 登录名:davy_lin@163.com
 管理密码:jsdfyy84185588
-APPID:wx05694a921097aa78
-AppSecret:d92cb78e0445afa905ea956278273fe7
+APPID: wx05694a921097aa78
+AppSecret: d92cb78e0445afa905ea956278273fe7
 
 [监控系统]
+西楼
 主机地址：192.168.100.2
 管理员：admin
 登录密码：admin888
 普通用户：jsdfyy
 登录密码：jsdfyy84185588
+东楼
+主机地址：192.0.0.200
+管理账号：admin
+登录密码：admin123
+
 
 [企业邮箱]
 企业邮箱
@@ -377,3 +383,16 @@ jsdfyy84185588
 https://ncisdc.medidata.cn/
 嘉善东方医院
 jsdfyy84185588
+
+[崔玉兰诊所电子化注册]
+233R6F7S7
+cyl0624
+
+btcoint wallet id 
+3f1d9554-e534-4893-b9a2-dafc7507d617(davy_lin@qq.com)
+6765f8a4-f6d0-4d0e-812c-1ddbfc0575ca(8162271@qq.com)
+
+[社保申报]
+http://www.zjjiashan.lss.gov.cn:8282/sionline/
+社保账号: 33042171315899
+密码: jsdfyy2016
