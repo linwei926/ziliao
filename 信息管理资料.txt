@@ -229,8 +229,6 @@ username=057377075521
 passowrd=787657
 
 [卫生统计直报]
-WEB地址：http://tjbb.zjwst.gov.cn/irpt/i/oem/wsb/
-http://tjbb.zjwst.gov.cn/irpt/esmain/portal/loginportal.do?portalid=WJW
 http://tjbb.zjwst.gov.cn/irpt/
 服务器：http://tjbb.zjwst.gov.cn/irpt/i/
 330421780486856
